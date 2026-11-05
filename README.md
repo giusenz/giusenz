@@ -2,4 +2,8 @@
 
 ---
 
-B.Sc. in Computer Science @ University of Pisa &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/gnozza)
+CS Undergrad @ University of Pisa 
+
+---
+
+Find me on &nbsp; <a href="https://linkedin.com/in/gnozza"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="26" height="26" alt="LinkedIn" valign="middle"/></a>
